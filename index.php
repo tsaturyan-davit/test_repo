@@ -8,4 +8,7 @@ foreach ($variable as $key => $value) {
 for ($i=0; $i < ; $i++) { 
 	echo $i;
 }
+foreach ($variable as $key => $value) {
+	# code...
+}
 ?>
